@@ -2,7 +2,7 @@
 1. Clone this repository to local machine
 2. In terminal navigate to this directory "cd robotframework-practise/"
 3. Run command in terminal "robot TestCases/TC.robot"
-4. If want to run through tags, then use command like this format "Robot --include=${tag} TestCases\Tagging.robot"
+4. If want to run through tags, then use command like this format "Robot --include=${tag} TestCases\Tagging.robot" (the tags can be used are: smoke, sanity and regression, which corresponding to each test case)
 
 #Test plan
 1. Test case - Login Function
