@@ -1,6 +1,6 @@
 #How to run
 1. Clone this repository to local machine
-2. In terminal navigate to this directory
+2. In terminal navigate to this directory "cd robotframework-practise/"
 3. Run command in terminal "robot TestCases\TC.robot"
 4. If want to run through tags, then use command like this format "Robot --include=${tag} TestCases\Tagging.robot"
 
